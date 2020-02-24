@@ -1,0 +1,14 @@
+.container {
+    background-color: red;
+    border: black solid 3px;
+}
+
+.row {
+    background-color: pink;
+
+}
+
+.row div {
+    background-color: yellow;
+    border: 3px black solid;
+}
