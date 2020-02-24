@@ -1,6 +1,10 @@
 .container {
-    background-color: red;
-    border: black solid 3px;
+    background-color: white;
+    /* border: black solid 1px; */
+}
+
+.container div {
+    /* border: black 1px solid; */
 }
 
 .row {
@@ -10,5 +14,5 @@
 
 .row div {
     background-color: yellow;
-    border: 3px black solid;
+    /* border: 1px black solid; */
 }
